@@ -6,6 +6,11 @@ Resource Hub is an Android mobile application designed to help users locate near
 
 ---
 
+## 🎥 Demo
+
+![Resource Hub Demo](assets/resourcehub.gif)
+
+---
 ## 🚀 Features
 
 - 🔍 **Location-Based Search**
@@ -60,16 +65,16 @@ The goal of Resource Hub is to provide a **simple and accessible tool** for indi
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](images/home.png)
+![Home Screen](assets/homescreen.png)
 
 ### Search Results
-![Search Results](images/search.png)
+![Search Results](assets/searchresults.png)
 
 ### Resource Details
-![Details](images/details.png)
+![Details](assets/resourcedetails.png)
 
 ### Budget Screen
-![Budget](images/budget.png)
+![Budget](assets/budget.png)
 
 ---
 

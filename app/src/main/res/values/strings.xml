@@ -1,0 +1,83 @@
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">Resource Hub</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_budget">Budget</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Resource Hub</string>
+    <string name="categories_title">Categories</string>
+    <string name="search_hint">Enter City, Zip, or Address</string>
+    <string name="resources_nearby">Resources Nearby</string>
+    <string name="view_details">View Details</string>
+
+    <!-- Categories -->
+    <string name="category_housing">Housing</string>
+    <string name="category_food">Food</string>
+    <string name="category_jobs">Jobs</string>
+    <string name="category_utilities">Utilities</string>
+
+    <!-- Favorites Screen -->
+    <string name="favorites_title">Favorites</string>
+    <string name="favorites_empty_title">No favorites yet</string>
+    <string name="favorites_empty_subtitle">
+        Save shelters, food banks, and job centers here for quick access later.
+    </string>
+
+    <!-- Budget Screen -->
+    <string name="budget_title">Monthly Budget</string>
+    <string name="remaining_to_spend">Remaining to Spend</string>
+    <string name="income_title">Income</string>
+    <string name="expenses_title">Expenses</string>
+    <string name="monthly_pay">Monthly Pay</string>
+    <string name="add_income">Add Income</string>
+    <string name="add_expense">Add Expense</string>
+
+    <!-- Expense Items -->
+    <string name="expense_rent">Rent</string>
+    <string name="expense_utilities">Utilities</string>
+    <string name="expense_insurance">Insurance</string>
+    <string name="expense_credit_cards">Credit Cards</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">Profile</string>
+    <string name="profile_name">John Doe</string>
+    <string name="profile_email">johndoe@email.com</string>
+    <string name="profile_location">Los Angeles, CA</string>
+    <string name="logout">Logout</string>
+
+    <!-- Profile Sections -->
+    <string name="account_section">Account</string>
+    <string name="preferences_section">Preferences</string>
+
+    <!-- Profile Options -->
+    <string name="personal_information">Personal Information</string>
+    <string name="login_security">Login &amp; Security</string>
+    <string name="notifications">Notifications</string>
+    <string name="language">Language</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="help_support">Help &amp; Support</string>
+
+    <!-- Resource Details -->
+    <string name="resource_details_title">Resource Details</string>
+    <string name="address_label">Address</string>
+    <string name="phone_label">Phone</string>
+    <string name="hours_label">Hours</string>
+    <string name="save_favorite">Save to Favorites</string>
+    <string name="remove_favorite">Remove from Favorites</string>
+
+    <!-- General -->
+    <string name="open_now">Open Now</string>
+    <string name="closed">Closed</string>
+    <string name="categories">Categories</string>
+    <string name="results">Results</string>
+    <string name="showing_resources">Showing resources...</string>
+    <string name="details_screen">Details Screen</string>
+    <string name="back">Back</string>
+
+</resources>

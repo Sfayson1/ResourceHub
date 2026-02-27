@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtName" type="id" />
+    <item name="txtAddress" type="id" />
+    <item name="txtPhone" type="id" />
+    <item name="txtHours" type="id" />
+    <item name="btnAddFavorite" type="id" />
+    <item name="listFavorites" type="id" />
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ResourceHub" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here if you want later -->
+        <!-- <item name="colorPrimary">@color/purple_500</item> -->
+    </style>
+
+    <!-- App theme (what the app actually uses) -->
+    <style name="Theme.ResourceHub" parent="Base.Theme.ResourceHub" />
+
+</resources>

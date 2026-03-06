@@ -158,20 +158,16 @@ ResourceHub/
 ---
 🌟 Why This Project Matters
 
-- This project demonstrates:
-
-- Mobile app development fundamentals
-
-- UI/UX design principles
-
-- Problem-solving and debugging skills
-
-- Real-world application development
+  ResourceHub addresses a real gap: people facing housing insecurity often need
+  multiple types of support at once but have to run separate searches to find them.
+  This app consolidates housing, food, jobs, and utilities into one searchable,
+  filterable interface — with a budget tracker built in for practical day-to-day
+  financial management.
 
 ---
 📄 License
 
-This project is for educational purposes.
+MIT License
 
 ---
 
@@ -179,9 +175,7 @@ This project is for educational purposes.
 
 **Sherika Fayson**
 
-Software Development Student
-
-Future Software Engineer
+Software Engineer · sherikafayson.com
 
 ---
 
